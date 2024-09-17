@@ -1,1 +1,2 @@
 hello đến với git, khởi đầu làm việc
+ để merge code từ nhánh con về nhánh master thì phải đứng ở nhánh master : git merge tên nhánh con
