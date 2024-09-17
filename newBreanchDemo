@@ -1,0 +1,2 @@
+tạo thêm 1 branch mới, bằng cách : git branch + tên branch
+để chuyển tới branch đó: git checkout tên branch
